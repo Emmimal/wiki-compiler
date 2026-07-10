@@ -6,7 +6,7 @@ A pure-Python compiler that turns raw, messy text notes into a linked, linted ma
 
 Most LLM wiki tutorials stop at: point an agent at your notes, let it decide what's related, let it rewrite pages. This library handles the deterministic part of that job instead: extracting structure, building the link graph, and validating the result, without a single model call.
 
-Read the full write-up on Towards Data Science → [LLM Wikis Are Over-Engineered. I Replaced Mine With a Pure Python Compiler.](https://towardsdatascience.com/author/emmimalp-alexander/)
+Read the full write-up on Towards Data Science → [LLM Wikis Are Over-Engineered. I Replaced Mine With a Pure Python Compiler.](https://towardsdatascience.com/llm-wikis-are-over-engineered-i-replaced-mine-with-a-pure-python-compiler/)
 
 ## What It Does
 
